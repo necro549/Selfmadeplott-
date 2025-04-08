@@ -118,4 +118,5 @@ select {
     background-color: #fafafa;
     font-size: 36px; /* Vergrößerte Schriftgröße */
     color: #333;
+    font-family: 'Schriftart4' !important;
 }
