@@ -1,0 +1,121 @@
+@font-face {
+    font-family: 'Schriftart1';
+    src: url('https://github.com/necro549/Selfmadeplott-/raw/d61cf98eec3d94ea4ed7977b0601599337fca467/Schriftnr%201.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Schriftart2';
+    src: url('https://github.com/necro549/Selfmadeplott-/raw/d61cf98eec3d94ea4ed7977b0601599337fca467/Schriftnr%202.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Schriftart3';
+    src: url('https://github.com/necro549/Selfmadeplott-/raw/d61cf98eec3d94ea4ed7977b0601599337fca467/Schriftnr%203.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Schriftart4';
+    src: url('https://github.com/necro549/Selfmadeplott-/raw/d61cf98eec3d94ea4ed7977b0601599337fca467/Schriftnr%204.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Schriftart5';
+    src: url('https://github.com/necro549/Selfmadeplott-/raw/d61cf98eec3d94ea4ed7977b0601599337fca467/Schriftnr%205.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Schriftart6';
+    src: url('https://github.com/necro549/Selfmadeplott-/raw/d61cf98eec3d94ea4ed7977b0601599337fca467/Schriftnr%206.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Schriftart7';
+    src: url('https://github.com/necro549/Selfmadeplott-/raw/d61cf98eec3d94ea4ed7977b0601599337fca467/Schriftnr%207.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Schriftart8';
+    src: url('https://github.com/necro549/Selfmadeplott-/raw/d61cf98eec3d94ea4ed7977b0601599337fca467/Schriftnr%208.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Schriftart9';
+    src: url('https://github.com/necro549/Selfmadeplott-/raw/d61cf98eec3d94ea4ed7977b0601599337fca467/Schriftnr%209.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Schriftart10';
+    src: url('https://github.com/necro549/Selfmadeplott-/raw/d61cf98eec3d94ea4ed7977b0601599337fca467/Schriftnr%2010.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Schriftart11';
+    src: url('https://github.com/necro549/Selfmadeplott-/raw/d61cf98eec3d94ea4ed7977b0601599337fca467/Schriftnr%2011.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Schriftart12';
+    src: url('https://github.com/necro549/Selfmadeplott-/raw/d61cf98eec3d94ea4ed7977b0601599337fca467/Schriftnr%2012.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Schriftart13';
+    src: url('https://github.com/necro549/Selfmadeplott-/raw/d61cf98eec3d94ea4ed7977b0601599337fca467/Schriftnr%2013.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Schriftart14';
+    src: url('https://github.com/necro549/Selfmadeplott-/raw/d61cf98eec3d94ea4ed7977b0601599337fca467/Schriftnr%2014.woff2') format('woff2');
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 20px;
+    color: #333;
+}
+
+textarea {
+    width: 100%;
+    height: 100px;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+#live-preview {
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #fafafa;
+    font-size: 18px;
+    color: #333;
+}
