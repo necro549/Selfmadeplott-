@@ -68,9 +68,6 @@
     src: url('https://raw.githubusercontent.com/necro549/Selfmadeplott-/d61cf98eec3d94ea4ed7977b0601599337fca467/Schriftnr%2014.woff2') format('woff2');
 }
 
-#live-preview {
-    font-family: 'Schriftart4' !important;
-}
 body {
     font-family: Arial, sans-serif;
     background-color: #f0f0f0;
