@@ -15,7 +15,7 @@
 
 @font-face {
     font-family: 'Schriftart4';
-    src: url('https://raw.githubusercontent.com/necro549/Selfmadeplott-/2bb6033736e1b5cf20c9492940d0f91475a332cc/Schriftnr%204.woff2') format('woff2');
+    src: url('https://raw.githubusercontent.com/necro549/Selfmadeplott-/b39200cff2f46de874e9f7e1bd68891fb2fb6211/Schriftnr%204.woff2') format('woff2');
 }
 
 @font-face {
@@ -118,3 +118,4 @@ select {
     background-color: #fafafa;
     font-size: 36px; /* Vergrößerte Schriftgröße */
     color: #333;
+}
