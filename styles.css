@@ -116,6 +116,6 @@ select {
     border: 1px solid #ccc;
     border-radius: 4px;
     background-color: #fafafa;
-    font-size: 54px; /* Vergrößerte Schriftgröße */
+    font-size: 36px; /* Vergrößerte Schriftgröße */
     color: #333;
 }
